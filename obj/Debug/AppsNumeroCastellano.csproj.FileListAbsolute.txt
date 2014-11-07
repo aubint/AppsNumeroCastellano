@@ -1,0 +1,6 @@
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsNumeroCastellano\AppsNumeroCastellano\bin\Debug\AppsNumeroCastellano.exe.config
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsNumeroCastellano\AppsNumeroCastellano\obj\Debug\AppsNumeroCastellano.csprojResolveAssemblyReference.cache
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsNumeroCastellano\AppsNumeroCastellano\bin\Debug\AppsNumeroCastellano.exe
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsNumeroCastellano\AppsNumeroCastellano\bin\Debug\AppsNumeroCastellano.pdb
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsNumeroCastellano\AppsNumeroCastellano\obj\Debug\AppsNumeroCastellano.exe
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsNumeroCastellano\AppsNumeroCastellano\obj\Debug\AppsNumeroCastellano.pdb
